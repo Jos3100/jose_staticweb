@@ -41,8 +41,24 @@ h1 {
     font-family: 'Rubik Dirt', cursive;
 }
 
+.seccion-descripcion {
+    font-size: 1.2rem;
+    color: #584e4e;
+
+
+}
+
 .seccion-texto {
     font-size: 1.2rem;
+}
+
+.texto-negro {
+    color: black;
+}
+
+.texto-blanco {
+    color: white;
+
 }
 
 /* Seccion Hero */
@@ -94,7 +110,7 @@ h1 {
 }
 
 .experiencia .columna:hover {
-    color:white;
+    color: white;
     background-color: #1b1b32;
 
 }
@@ -122,6 +138,11 @@ h1 {
 
 .badge {
     margin: 5px;
+}
+
+/* Proyectos */
+.proyectos-recientes {
+    padding: 40px;
 }
 
 
