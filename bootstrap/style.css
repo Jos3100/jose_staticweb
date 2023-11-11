@@ -82,6 +82,12 @@ h1 {
     margin: 20px;
 }
 
+.hero-inferior-imagen{
+        width: 290px;
+        height: 290px;
+        margin: 20px;
+}
+
 .hero-principal h2 {
     font-size: 1.5rem;
     color: #615151;
